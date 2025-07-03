@@ -1,0 +1,26 @@
+[
+  {
+    "IDENTIFICACION": "1001",
+    "NOMBRE": "Juan Pérez",
+    "CORREO": "juan.perez@example.com",
+    "FECHA_NACIMIENTO": "1990-05-15",
+    "FECHA_CREACION": "2025-07-02T10:30:00.000Z",
+    "CARGO": "Analista de Sistemas"
+  },
+  {
+    "IDENTIFICACION": "1002",
+    "NOMBRE": "María Gómez",
+    "CORREO": "maria.gomez@example.com",
+    "FECHA_NACIMIENTO": "1985-11-23",
+    "FECHA_CREACION": "2025-07-02T11:00:00.000Z",
+    "CARGO": "Jefe de Proyectos"
+  },
+  {
+    "IDENTIFICACION": "1003",
+    "NOMBRE": "Carlos Rodríguez",
+    "CORREO": "carlos.rodriguez@example.com",
+    "FECHA_NACIMIENTO": "1993-03-02",
+    "FECHA_CREACION": "2025-07-02T11:15:00.000Z",
+    "CARGO": "Desarrollador Fullstack"
+  }
+]
